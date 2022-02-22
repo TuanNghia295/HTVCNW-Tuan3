@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #5125;
+    height: 50px;
+}
+
+header p {
+    text-align: center;
+}
+
+section {
+    background-color: aquamarine;
+    height: 300px;
+}
+
+footer {
+    background-color: #545454;
+    height: 50px;
+}
+
+footer p {
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: auto;
+}
+
+header {
+    height: 50px;
+    background-color: #ccc;
+}
+
+nav {
+    height: 30px;
+    background-color: #512;
+}
+
+section {
+    height: 200px;
+    background-color: #124124;
+}
+
+section article {
+    height: 160px;
+    background-color: #884818;
+    margin: 0 8px;
+}
+
+footer {
+    height: 50px;
+    background-color: #124999;
+}

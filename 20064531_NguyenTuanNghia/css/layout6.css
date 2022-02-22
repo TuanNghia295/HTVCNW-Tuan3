@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: auto;
+}
+
+header {
+    height: 50px;
+    background-color: #ccc;
+}
+
+nav {
+    height: 30px;
+    background-color: #512;
+}
+
+.content {
+    height: 200px;
+}
+
+.content section {
+    height: 200px;
+    background-color: #712537;
+    float: left;
+    width: 80%;
+}
+
+.content section article {
+    height: 80px;
+    background-color: tomato;
+    margin: 0 8px;
+}
+
+.content aside {
+    height: 200px;
+    background-color: #658162;
+    float: right;
+    width: 20%;
+}
+
+footer {
+    height: 50px;
+    background-color: bisque;
+}

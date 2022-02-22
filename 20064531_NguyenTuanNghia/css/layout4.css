@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: auto;
+}
+
+header {
+    height: 50px;
+    background-color: #ccc;
+}
+
+.content {
+    height: 200px;
+}
+
+.content nav {
+    height: 200px;
+    background-color: #817641;
+    float: left;
+    width: 30%;
+}
+
+.content section {
+    height: 200px;
+    background-color: #841723;
+    float: left;
+    width: 70%;
+}
+
+.content section article {
+    height: 160px;
+    background-color: violet;
+    margin: 0 8px;
+}
+
+footer {
+    height: 50px;
+    background-color: tomato;
+}

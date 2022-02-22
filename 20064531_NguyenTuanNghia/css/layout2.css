@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #712;
+    height: 50px;
+}
+
+nav {
+    background-color: #0581;
+    height: 200px;
+    width: 33.3333%;
+    float: left;
+}
+
+.content {
+    background-color: #0867;
+    height: 200px;
+}
+
+.space {
+    width: 33.3333%;
+    float: left;
+    height: 200px;
+    background-color: azure;
+}
+
+section {
+    background-color: #4167;
+    height: 200px;
+    width: 33.3333%;
+    float: left;
+}
+
+footer {
+    background-color: #156;
+    height: 50px;
+}
